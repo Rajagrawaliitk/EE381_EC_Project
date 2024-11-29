@@ -1,1 +1,1 @@
-# Human_emotions_detection
+# EC Project
